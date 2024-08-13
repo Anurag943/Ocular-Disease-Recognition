@@ -19,7 +19,7 @@ idna==3.7
 Jinja2==3.1.4
 jsonschema==4.23.0
 jsonschema-specifications==2023.12.1
-keras==3.5.0
+keras==2.12.0
 libclang==18.1.1
 Markdown==3.6
 markdown-it-py==3.0.0
@@ -48,9 +48,8 @@ six==1.16.0
 smmap==5.0.1
 streamlit==1.37.1
 tenacity==8.5.0
-tensorboard==2.17.0
+tensorboard==2.12.0
 tensorboard-data-server==0.7.2
-tensorflow==2.12.0
 tensorflow==2.12.0
 toml==0.10.2
 tornado==6.4.1
